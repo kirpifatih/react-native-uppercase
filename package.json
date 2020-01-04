@@ -1,0 +1,12 @@
+{
+  "name": "react-native-uppercase",
+  "version": "0.0.2",
+  "description": "React native uppercase text",
+  "main": "index.js",
+  "author": "fatihkirpi <fatihkirpii@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  }
+}
